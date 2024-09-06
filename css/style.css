@@ -1,0 +1,73 @@
+.container {
+    width: 1178px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.heder-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+body {
+    background-color: #C2C2C2;
+}
+
+.header {
+    background-color: #676767;
+    padding: 26px 0;
+}
+
+.header-logo {
+    color: #C4C4C4;
+    font-size: 38px;
+    font-weight: 700;
+}
+
+.header-span {
+    color: #FFA800;
+}
+
+.nav-page {
+    color: #C4C4C4;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.roblox {
+    color: #C4C4C4;
+    font-size: 23px;
+    font-weight: 500;
+}
+
+.nav-page:hover {
+    color: #FFA800;
+}
+
+.roblox-span:hover {
+    color: #FFA800;
+}
+
+.footer {
+    background-color: #676767;
+    padding: 26px 0;
+}
+
+.footer-logo {
+    color: #C4C4C4;
+    font-size: 38px;
+    font-weight: 700;
+}
+
+.footer-span {
+    color: #FFA800;
+}
+
+.nav-list {
+    display: flex;
+}
+
+.nav-item {
+    padding: 0 5px;
+}
