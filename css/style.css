@@ -4,6 +4,10 @@
     padding: 0 10px;
 }
 
+button {
+    border-radius: 4px;
+}
+
 .heder-container {
     display: flex;
     align-items: center;
@@ -70,4 +74,18 @@ body {
 
 .nav-item {
     padding: 0 5px;
+}
+
+.btn {
+    color: #252525;
+    background-color: #a4a4a483;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 5px 26px;
+    margin: 5px 10px;
+}
+
+.center-button {
+    display: flex;
+    justify-content: center;
 }
