@@ -89,3 +89,8 @@ body {
     display: flex;
     justify-content: center;
 }
+
+.img-buy {
+    background-color: #FFFFFF;
+    border-radius: 5px;
+}
